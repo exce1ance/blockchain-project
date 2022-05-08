@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/blockchain-project/static/css/main.dc72e57c.css",
+    "main.js": "/blockchain-project/static/js/main.51ee4c02.js",
+    "static/media/recuadro.jpg": "/blockchain-project/static/media/recuadro.18b8c6c2d2db9a5ad56b.jpg",
+    "static/media/black_frame.png": "/blockchain-project/static/media/black_frame.70e66220f079374380db.png",
+    "static/media/cont_blanco3.png": "/blockchain-project/static/media/cont_blanco3.ab1fa1253f240c556496.png",
+    "index.html": "/blockchain-project/index.html",
+    "main.dc72e57c.css.map": "/blockchain-project/static/css/main.dc72e57c.css.map",
+    "main.51ee4c02.js.map": "/blockchain-project/static/js/main.51ee4c02.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc72e57c.css",
+    "static/js/main.51ee4c02.js"
+  ]
+}
